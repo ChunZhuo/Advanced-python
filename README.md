@@ -15,6 +15,7 @@ Recording all uncommon feature of python
    
    ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/3df8c4ed-d06d-4029-bc43-1a29f509e921)
 
-   ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/a3ac9663-b8b4-4a01-aa06-17bcba0c9936)
+   ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/cd834260-9c59-4914-90b4-34f7d2d7e6a2)
+
 
 
