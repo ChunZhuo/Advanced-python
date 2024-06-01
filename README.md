@@ -13,7 +13,8 @@ Recording all uncommon feature of python
    
    3). deque: double-ended queue maxlength can be specified
    
-   ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/3df8c4ed-d06d-4029-bc43-1a29f509e921)
+   ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/5563d0be-58e3-4af0-aa80-884792e5008b)
+
 
    ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/cd834260-9c59-4914-90b4-34f7d2d7e6a2)
 
