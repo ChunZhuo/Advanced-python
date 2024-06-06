@@ -21,7 +21,9 @@ Recording all uncommon features of python
    4). defaultdict: dictionary with default value type and value  (default_factory)
 
 ——————————————————————————————————————
+
 torch.allclose| abs(a-b)<EPS
+
 ______________________________________
 
 
