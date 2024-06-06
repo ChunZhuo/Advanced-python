@@ -1,5 +1,5 @@
 # Advanced-python
-Recording all uncommon feature of python
+Recording all uncommon features of python
 
 **1. class**
    
@@ -19,6 +19,10 @@ Recording all uncommon feature of python
    ![image](https://github.com/ChunZhuo/Advanced-python/assets/118121876/cd834260-9c59-4914-90b4-34f7d2d7e6a2)
 
    4). defaultdict: dictionary with default value type and value  (default_factory)
+
+——————————————————————————————————————
+torch.allclose| abs(a-b)<EPS
+______________________________________
 
 
 
